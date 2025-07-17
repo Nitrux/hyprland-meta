@@ -1,0 +1,17 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Hyprland =
+
+hyprland
+hyprland-backgrounds
+hyprland-protocols
+hyprpaper
+hyprwayland-scanner
+hyprcursor-utils
+hypridle
+hyprland-qt-support
+hyprland-qtutils
+hyprclock
+hyprwall
+
